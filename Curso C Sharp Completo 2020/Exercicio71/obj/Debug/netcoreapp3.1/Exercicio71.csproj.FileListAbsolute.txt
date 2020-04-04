@@ -1,0 +1,13 @@
+D:\Projetos\Curso-CSharp-Completo-2020\Curso C Sharp Completo 2020\Exercicio71\bin\Debug\netcoreapp3.1\Exercicio71.exe
+D:\Projetos\Curso-CSharp-Completo-2020\Curso C Sharp Completo 2020\Exercicio71\bin\Debug\netcoreapp3.1\Exercicio71.deps.json
+D:\Projetos\Curso-CSharp-Completo-2020\Curso C Sharp Completo 2020\Exercicio71\bin\Debug\netcoreapp3.1\Exercicio71.runtimeconfig.json
+D:\Projetos\Curso-CSharp-Completo-2020\Curso C Sharp Completo 2020\Exercicio71\bin\Debug\netcoreapp3.1\Exercicio71.runtimeconfig.dev.json
+D:\Projetos\Curso-CSharp-Completo-2020\Curso C Sharp Completo 2020\Exercicio71\bin\Debug\netcoreapp3.1\Exercicio71.dll
+D:\Projetos\Curso-CSharp-Completo-2020\Curso C Sharp Completo 2020\Exercicio71\bin\Debug\netcoreapp3.1\Exercicio71.pdb
+D:\Projetos\Curso-CSharp-Completo-2020\Curso C Sharp Completo 2020\Exercicio71\obj\Debug\netcoreapp3.1\Exercicio71.csprojAssemblyReference.cache
+D:\Projetos\Curso-CSharp-Completo-2020\Curso C Sharp Completo 2020\Exercicio71\obj\Debug\netcoreapp3.1\Exercicio71.csproj.CoreCompileInputs.cache
+D:\Projetos\Curso-CSharp-Completo-2020\Curso C Sharp Completo 2020\Exercicio71\obj\Debug\netcoreapp3.1\Exercicio71.AssemblyInfoInputs.cache
+D:\Projetos\Curso-CSharp-Completo-2020\Curso C Sharp Completo 2020\Exercicio71\obj\Debug\netcoreapp3.1\Exercicio71.AssemblyInfo.cs
+D:\Projetos\Curso-CSharp-Completo-2020\Curso C Sharp Completo 2020\Exercicio71\obj\Debug\netcoreapp3.1\Exercicio71.dll
+D:\Projetos\Curso-CSharp-Completo-2020\Curso C Sharp Completo 2020\Exercicio71\obj\Debug\netcoreapp3.1\Exercicio71.pdb
+D:\Projetos\Curso-CSharp-Completo-2020\Curso C Sharp Completo 2020\Exercicio71\obj\Debug\netcoreapp3.1\Exercicio71.genruntimeconfig.cache

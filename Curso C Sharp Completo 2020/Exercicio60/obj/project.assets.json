@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\Curso-CSharp-Completo-2020\\Curso C Sharp Completo 2020\\ConsoleApp1\\Exercicio60.csproj",
+      "projectUniqueName": "D:\\Projetos\\Curso-CSharp-Completo-2020\\Curso C Sharp Completo 2020\\Exercicio60\\Exercicio60.csproj",
       "projectName": "Exercicio60",
-      "projectPath": "D:\\Projetos\\Curso-CSharp-Completo-2020\\Curso C Sharp Completo 2020\\ConsoleApp1\\Exercicio60.csproj",
+      "projectPath": "D:\\Projetos\\Curso-CSharp-Completo-2020\\Curso C Sharp Completo 2020\\Exercicio60\\Exercicio60.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\Curso-CSharp-Completo-2020\\Curso C Sharp Completo 2020\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\Projetos\\Curso-CSharp-Completo-2020\\Curso C Sharp Completo 2020\\Exercicio60\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
